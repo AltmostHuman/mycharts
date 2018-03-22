@@ -1,12 +1,48 @@
 apiVersion: v1
 entries:
+  loyaltylevelchart:
+  - apiVersion: v1
+    created: 2018-03-22T08:33:21.45668471-07:00
+    description: A Helm chart for Kubernetes
+    digest: 1aeff70adf435d5eca10b25398a480d553eb893542013baeaf0e4e69d7adc215
+    name: loyaltylevelchart
+    urls:
+    - https://altmosthuman.github.io/mycharts/loyaltylevelchart-0.1.0.tgz
+    version: 0.1.0
   notificationchart:
   - apiVersion: v1
-    created: 2018-03-22T08:04:27.610552542-07:00
+    created: 2018-03-22T08:33:21.4570109-07:00
     description: A Helm chart for Kubernetes
     digest: 4f08ecfcadd9c22835de7173f7ee9d452d9ad3a361b0176fc0022fbd34ec7dbd
     name: notificationchart
     urls:
     - https://altmosthuman.github.io/mycharts/notificationchart-0.1.0.tgz
     version: 0.1.0
-generated: 2018-03-22T08:04:27.610129289-07:00
+  portfoliochart:
+  - apiVersion: v1
+    created: 2018-03-22T08:33:21.457582916-07:00
+    description: A Helm chart for Kubernetes
+    digest: 1c623c2a0f4b5bac42c54dd0dbacd5783181c966180db6103f16e31a0e9f5a5f
+    name: portfoliochart
+    urls:
+    - https://altmosthuman.github.io/mycharts/portfoliochart-0.1.0.tgz
+    version: 0.1.0
+  stockquotechart:
+  - apiVersion: v1
+    created: 2018-03-22T08:33:21.457883084-07:00
+    description: A Helm chart for Kubernetes
+    digest: 863e41045ba185c19857e75054acdcd07094a421355912f78137fb98de080ee5
+    name: stockquotechart
+    urls:
+    - https://altmosthuman.github.io/mycharts/stockquotechart-0.1.0.tgz
+    version: 0.1.0
+  traderchart:
+  - apiVersion: v1
+    created: 2018-03-22T08:33:21.458681284-07:00
+    description: A Helm chart for Kubernetes
+    digest: 2688fdd14eb4dc97ac53312b3767243e6af9ac7945459d217d7b6826bb065465
+    name: traderchart
+    urls:
+    - https://altmosthuman.github.io/mycharts/traderchart-0.1.0.tgz
+    version: 0.1.0
+generated: 2018-03-22T08:33:21.456246205-07:00
